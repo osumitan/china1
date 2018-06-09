@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # ホームフォルダ
-HOME=~/max3tb/data/develop/sh/china
+HOME=~/data/develop/sh/china
 SITE=${HOME}/sitelist.txt
 
 # ログファイル名
